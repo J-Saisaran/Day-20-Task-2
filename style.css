@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(196, 255, 244); /* Example color */
+}
+html,
+body {
+  background-color: rgb(255, 196, 253) !important;
+}
+.card-body {
+  height: auto;
+  border: 1px solid rgb(124, 74, 171);
+  border-radius: 5px;
+  background-color: rgb(105, 230, 182);
+}
+
+.temp {
+  font-weight: bold;
+}
