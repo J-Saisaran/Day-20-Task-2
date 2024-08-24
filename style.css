@@ -15,3 +15,8 @@ body {
 .temp {
   font-weight: bold;
 }
+.heading{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+}
